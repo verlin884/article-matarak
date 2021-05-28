@@ -1,19 +1,34 @@
 {
     "article": [
         {
-            "title":"Bisakah Katarak Diobati Tanpa Operasi?",
-            "picture":"picture",
-            "description":"test",
-            "source":"this is the source"
+            "title":"Cegah Katarak dengan Menjaga Kadar Gula Darah Tetap Normal",
+            "imageId":"kadargula.png",
+            "description":"soon",
+            "source":"https:\/\/www.halodoc.com\/artikel\/cegah-katarak-dengan-menjaga-kadar-gula-darah-tetap-normal"
         },
         {
-            "title":"test",
-            "description":{
-                "line1":"dash dash",
-                "line2":"dash dash",
-                "line3":"dash dash",
-                "line4":"dash dash"
-            }
+            "title":"Bahaya Paparan Sinar Ultra Violet Matahari",
+            "imageId":"uv.png",
+            "description":"soon",
+            "source":"https:\/\/www.halodoc.com\/artikel\/benarkah-paparan-sinar-ultra-violet-matahari-picu-kanker-mata"
+        },
+        {
+            "title":"Katarak di Usia Muda? Ini Pencegahannya",
+            "imageId":"muda.png",
+            "description":"soon",
+            "source":"https:\/\/www.halodoc.com\/artikel\/katarak-di-usia-muda-ini-pencegahannya"
+        },
+        {
+            "title":"Cegah Katarak dengan Menjaga Kadar Gula Darah Tetap Normal",
+            "imageId":"withoutsurgery.png",
+            "description":"soon",
+            "source":"https:\/\/www.halodoc.com\/artikel\/bisakah-katarak-diobati-tanpa-operasi"
+        },
+        {
+            "title":"Ingin Mencegah Katarak? Lakukan 5 Hal Ini",
+            "imageId":"cegahkatarak.png",
+            "description":"soon",
+            "source":"https:\/\/www.halodoc.com\/artikel\/ingin-mencegah-katarak-lakukan-5-hal-ini"
         }
     ]
 }
