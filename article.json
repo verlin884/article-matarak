@@ -1,0 +1,19 @@
+{
+    "article": [
+        {
+            "title":"Bisakah Katarak Diobati Tanpa Operasi?",
+            "picture":"picture",
+            "description":"test",
+            "source":"this is the source"
+        },
+        {
+            "title":"test",
+            "description":{
+                "line1":"dash dash",
+                "line2":"dash dash",
+                "line3":"dash dash",
+                "line4":"dash dash"
+            }
+        }
+    ]
+}
